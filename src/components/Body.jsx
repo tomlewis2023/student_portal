@@ -3,7 +3,7 @@ import Announcements from "./Announcements";
 import ClassSchedule from "./ClassSchedule";
 import QuickLink from "./QuickLink";
 import AccessclassRecording from "./AccessclassRecording";
-import search from "../assets/icons/search.png";
+
 
 const Body = () => {
   return (
@@ -35,7 +35,7 @@ const Body = () => {
         <div>
           <div className="searchbar">
             <span>
-              <img src={search} alt="img" />
+              <img src="/icons/search.png" alt="img" />
             </span>
             <input
               className="searchbar_1"

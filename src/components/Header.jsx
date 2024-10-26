@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/images/Logo.png";
+
 
 const Header = () => {
   return (
@@ -7,7 +7,7 @@ const Header = () => {
       <header>
         <nav className="nav">
           <a href="#">
-            <img className="logo_1" src={logo} alt="logo" />
+            <img className="logo_1" src="/images/Logo.png" alt="logo" />
           </a>
           <p className="header_1">Student Portal</p>
 
