@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Schedule } from '../data/data';
+import { Schedule } from '../assets/data/data';
 
 const ClassSchedule = () => {
   const [popupData, setPopupData] = useState(null);

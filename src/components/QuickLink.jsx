@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Links } from "../data/data";
+import { Links } from "../assets/data/data";
 
 const QuickLink = () => {
   const [hoverItem, setHoveredItem] = useState(null);

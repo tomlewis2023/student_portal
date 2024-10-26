@@ -1,5 +1,5 @@
 import React from "react";
-import { Announcement } from "../data/data";
+import { Announcement } from "../assets/data/data";
 
 const Announcements = () => {
   return (

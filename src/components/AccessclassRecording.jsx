@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Recordings } from "../data/data";
+import { Recordings } from "../assets/data/data";
 import PlayNowFrame from "./PlaynowFrame";
 
 
